@@ -1,0 +1,8 @@
+header--nav--div="container"
+                -logo(h1--class logo)
+                -ul--li--3*a--a din index.html class=current
+                            a din about....
+        -div id showcase
+            div id container -- h2 welcome
+                                p para
+                                a din clasa button
